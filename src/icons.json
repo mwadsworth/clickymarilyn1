@@ -1,0 +1,48 @@
+[{
+    "id": "1",
+    "image": "./img/images/cakepops.jpg"
+  },
+  {
+    "id": "2",
+    "image": "./img/images/chocolates.jpg"
+  },
+  {
+    "id": "3",
+    "image": "./img/images/conversationhearts.jpg"
+  },
+  {
+    "id": "4",
+    "image": "./img/images/cookies.jpg"
+  },
+  {
+    "id": "5",
+    "image": "./img/images/cupcakes.jpg"
+  },
+  {
+    "id": "6",
+    "image": "./img/images/donut.jpg"
+  },
+  {
+    "id": "7",
+    "image": "./img/images/gummiworms.jpg"
+  },
+  {
+    "id": "8",
+    "image": "./img/images/icecream.jpg"
+  }, {
+    "id": "9",
+    "image": "./img/images/licorice.jpg"
+  },
+  {
+    "id": "10",
+    "image": "./img/images/macaron.jpg"
+  },
+  {
+    "id": "11",
+    "image": "./img/images/meringues.jpg"
+  },
+  {
+    "id": "12",
+    "image": "./img/images/popsicles.jpg"
+  }
+]
